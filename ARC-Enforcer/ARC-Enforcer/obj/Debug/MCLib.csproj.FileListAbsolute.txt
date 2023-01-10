@@ -1,0 +1,8 @@
+C:\Users\Rishan Sardana\Desktop\Development\ARC-Enforcer\MCLib\bin\Debug\MCLib.pdb
+C:\Users\Rishan Sardana\Desktop\Development\ARC-Enforcer\MCLib\obj\Debug\MCLib.csproj.AssemblyReference.cache
+C:\Users\Rishan Sardana\Desktop\Development\ARC-Enforcer\MCLib\obj\Debug\MCLib.csproj.CoreCompileInputs.cache
+C:\Users\Rishan Sardana\Desktop\Development\ARC-Enforcer\MCLib\obj\Debug\MCLib.pdb
+C:\Users\Rishan Sardana\Desktop\Development\ARC-Enforcer\MCLib\bin\Debug\MCLib.exe.config
+C:\Users\Rishan Sardana\Desktop\Development\ARC-Enforcer\MCLib\bin\Debug\MCLib.exe
+C:\Users\Rishan Sardana\Desktop\Development\ARC-Enforcer\MCLib\obj\Debug\MCLib.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rishan Sardana\Desktop\Development\ARC-Enforcer\MCLib\obj\Debug\MCLib.exe
